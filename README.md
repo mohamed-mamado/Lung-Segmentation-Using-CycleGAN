@@ -10,11 +10,11 @@ This project focuses on lung segmentation in medical imaging using the Chexpert 
 - **Characteristics:** The dataset contains a vast number of labeled chest X-ray images, making it highly relevant for tasks like lung segmentation.
 - **Relevance:** The dataset is particularly useful for training deep learning models aimed at identifying and segmenting lung areas in X-ray images.
 ## Approaches
-1. CycleGAN
+### 1. CycleGAN
 - **Model Explanation:** CycleGAN is a type of Generative Adversarial Network (GAN) that can translate images from one domain to another without paired examples.
 - **Application:** In this project, CycleGAN is applied to generate lung segmentation masks from chest X-ray images.
 - **Advantages:** CycleGAN's ability to work with unpaired data makes it suitable for tasks where exact ground truth masks are difficult to obtain.
-2. SAM (Segment Anything Model)
+### 2. SAM (Segment Anything Model)
 - **Model Introduction:** SAM is a model designed to generalize well to a variety of segmentation tasks, including medical imaging.
 - **Application:** SAM is utilized in this project to segment lung regions from the Chexpert dataset.
 - **Benefits:** SAM's versatility and generalization capabilities make it a strong candidate for medical image segmentation tasks.
