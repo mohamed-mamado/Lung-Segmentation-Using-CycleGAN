@@ -26,3 +26,5 @@ This project focuses on lung segmentation in medical imaging using the Chexpert 
 - **Summary of Findings:** The project successfully implemented and evaluated two approaches for lung segmentation, providing insights into their respective strengths and weaknesses.
 - **Implications:** These findings have significant implications for improving diagnostic tools in medical imaging.
 - **Future Research:** Future work may involve exploring other deep learning models or enhancing the current models to further improve segmentation accuracy.
+- 
+### link for the kaggle notebook [CycleGan_for_Lungs](https://www.kaggle.com/code/mamado161/cyclegan-for-lungs)
